@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:22c55e&height=200&section=header&text=GhostGuard&fontColor=ffffff&fontSize=40" />
 
-# 👻 GhostGuard | Cyber
+# 🛡️ GhostGuard | Cyber
 
 🚀 Desenvolvedor Web & Criador de Soluções Digitais  
 💻 Especialista em Links na Bio e Landing Pages  
