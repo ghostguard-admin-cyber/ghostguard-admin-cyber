@@ -1,9 +1,13 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:22c55e&height=200&section=header&text=GhostGuard&fontColor=ffffff&fontSize=40" />
+
 # 👻 GhostGuard | Cyber
 
 🚀 Desenvolvedor Web & Criador de Soluções Digitais  
 💻 Especialista em Links na Bio e Landing Pages  
 🎯 Transformando perfis em máquinas de clientes  
 
+![GhostGuard](https://img.shields.io/badge/GhostGuard-Active-22c55e?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Open%20for%20Work-0f172a?style=for-the-badge)
 ---
 
 ## 🧠 Sobre mim
